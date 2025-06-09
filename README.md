@@ -1,3 +1,5 @@
+[![Tu Imagen](https://www.xtrafondos.com/wallpapers/programacion-computadora-y-lentes-10837.jpg)](ENLACE_OPCIONAL) # Esteban David Ricardo Fuentes
+
 # Esteban David Ricardo Fuentes
 ### Desarrollador Full Stack
 
