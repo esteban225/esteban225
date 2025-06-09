@@ -1,5 +1,4 @@
 <div align="center" style="position:relative;">
-  <img src="https://www.xtrafondos.com/wallpapers/programacion-computadora-y-lentes-10837.jpg" alt="Background" style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;"/>
   <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); text-align:center;">
     <h1>Esteban David Ricardo Fuentes</h1>
     <h3>Desarrollador Full Stack</h3>
