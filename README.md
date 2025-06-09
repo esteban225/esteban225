@@ -1,9 +1,5 @@
-<div align="center" style="position:relative;">
-  <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); text-align:center;">
-    <h1>Esteban David Ricardo Fuentes</h1>
-    <h3>Desarrollador Full Stack</h3>
-  </div>
-</div>
+# Esteban David Ricardo Fuentes
+### Desarrollador Full Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estebanfuentes)
