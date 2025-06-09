@@ -1,7 +1,10 @@
-[![Tu Imagen](https://www.xtrafondos.com/wallpapers/programacion-computadora-y-lentes-10837.jpg)](ENLACE_OPCIONAL) # Esteban David Ricardo Fuentes
-
-# Esteban David Ricardo Fuentes
-### Desarrollador Full Stack
+<div align="center" style="position:relative;">
+  <img src="https://www.xtrafondos.com/wallpapers/programacion-computadora-y-lentes-10837.jpg" alt="Background" style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;"/>
+  <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); text-align:center;">
+    <h1>Esteban David Ricardo Fuentes</h1>
+    <h3>Desarrollador Full Stack</h3>
+  </div>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estebanfuentes)
