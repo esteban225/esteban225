@@ -2,7 +2,7 @@
 ### Desarrollador Full Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estebanfuentes)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esteban225)
 [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portafolio.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban.ricardo.dev@gmail.com)
 
@@ -13,6 +13,7 @@
 Soy un **Tecnólogo en Análisis y Desarrollo de Software** de Boyacá, Colombia, con una pasión por construir soluciones robustas y eficientes. Mi enfoque principal es el **desarrollo Full Stack**, dominando tanto el frontend como el backend para crear aplicaciones completas y escalables.
 
 Actualmente, estoy inmerso en el desarrollo de **AutoManage Pro**, una plataforma web integral para la gestión de talleres automotrices, utilizando **React, Spring Boot y MySQL**. Me entusiasma aplicar mis conocimientos para resolver problemas reales y estoy en constante aprendizaje, explorando tecnologías como **OAuth2, Docker, Stripe API, Laravel, Next.js, React Native, Expo, Vercel y Railway**.
+**En colaboración de mi compañeera de trabajo ** => [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=pink)](https://github.com/dmeloH)
 
 ---
 
