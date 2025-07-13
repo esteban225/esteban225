@@ -26,13 +26,33 @@ class Esteban {
   }
 }
 ```
+
+## 🧾 Certificaciones Profesionales
+
+🎨 **Diseño UX/UI**
+
+- 🟣 [**Fundamentos del diseño de experiencias de usuario (UX)**](https://coursera.org/share/6d14c40b30ab6f52fde8ce5b1edd5714)  
+  <sub>📍 *Coursera | 2024 · Figma · Jerarquía Visual · Prototipado*</sub>
+
+- 🔴 [**Comience el proceso de diseño UX: empatizar, definir e idear**](https://coursera.org/share/b7f99c829587f327fc18ac23cf0825ff)  
+  <sub>📍 *Coursera | 2024 · Investigación · Wireframes · Diseño Centrado en el Usuario*</sub>
+
+- 🔴 [**Construir wireframes y prototipos de baja fidelidad**](https://coursera.org/share/71043702c1d9a98369f3b3f47bf6e34b)  
+  <sub>📍 *Coursera | 2024 · Investigación · Wireframes · Diseño Centrado en el Usuario*</sub>
+
+🧠 **Metodologías Ágiles**
+
+- 🟡 [**Scrum Fundamentals Certified (SFC)**](https://www.scrumstudy.com/certification/verify?type=SFC&number=1081353)  
+  <sub>📍 *ScrumStudy | 2024 · Roles Scrum · Artefactos · Agilidad en equipos*</sub>
+
+
+---
 > 🤝 **Colaboración:** En este viaje no estoy solo, siempre dispuesto a colaborar y aprender en equipo. Actualmente, trabajo de cerca con mi talentosa compañera [@dmeloH](https://github.com/dmeloH).
 ---
 
-
 ## 🛠️ Stack Tecnológico
 
-Aquí tienes un vistazo más detallado de las tecnologías con las que trabajo regularmente:
+Aquí tienes un vistazo más detallado de las tecnologías con las que aprendo y experimento regularmente:
 
 ### 🔷 Frontend & Mobile 📱
 | | | | | |
