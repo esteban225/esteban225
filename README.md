@@ -32,18 +32,18 @@ class Esteban {
 🎨 **Diseño UX/UI**
 
 - 🟣 [**Fundamentos del diseño de experiencias de usuario (UX)**](https://coursera.org/share/6d14c40b30ab6f52fde8ce5b1edd5714)  
-  <sub>📍 *Coursera | 2024 · Figma · Jerarquía Visual · Prototipado*</sub>
+  <sub>📍 *Coursera | 2025 · Figma · Jerarquía Visual · Prototipado*</sub>
 
 - 🔴 [**Comience el proceso de diseño UX: empatizar, definir e idear**](https://coursera.org/share/b7f99c829587f327fc18ac23cf0825ff)  
-  <sub>📍 *Coursera | 2024 · Investigación · Wireframes · Diseño Centrado en el Usuario*</sub>
+  <sub>📍 *Coursera | 2025 · Investigación · Wireframes · Diseño Centrado en el Usuario*</sub>
 
 - 🔴 [**Construir wireframes y prototipos de baja fidelidad**](https://coursera.org/share/71043702c1d9a98369f3b3f47bf6e34b)  
-  <sub>📍 *Coursera | 2024 · Investigación · Wireframes · Diseño Centrado en el Usuario*</sub>
+  <sub>📍 *Coursera | 2025 · Investigación · Wireframes · Diseño Centrado en el Usuario*</sub>
 
 🧠 **Metodologías Ágiles**
 
 - 🟡 [**Scrum Fundamentals Certified (SFC)**](https://www.scrumstudy.com/certification/verify?type=SFC&number=1081353)  
-  <sub>📍 *ScrumStudy | 2024 · Roles Scrum · Artefactos · Agilidad en equipos*</sub>
+  <sub>📍 *ScrumStudy | 2025 · Roles Scrum · Artefactos · Agilidad en equipos*</sub>
 
 
 ---
