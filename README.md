@@ -1,7 +1,5 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,3,5,30&height=300&section=header&text=Esteban%20David%20Ricardo%20Fuentes&fontSize=55&fontColor=ffffff&animation=fadeInDown&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlign=50&descAlignY=52&descFontSize=20)
 
-# **Esteban David Ricardo Fuentes** 🚀  
-### Desarrollador Full Stack | Creador de Soluciones Innovadoras
 <p>
   <a href="https://www.linkedin.com/in/esteban-ricardo-2411b8303/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:esteban.ricardo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" /></a>
@@ -53,6 +51,9 @@ Aquí tienes un vistazo más detallado de las tecnologías con las que trabajo r
 | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes | <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" width="48" height="48" alt="AWS" /><br>AWS | <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="Google Cloud" /><br>Google Cloud | <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48" alt="Vercel" /><br>Vercel | <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=whit" width="48" height="48" alt="Railway" /><br>Railway |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" alt="Jenkins" /><br>Jenkins | <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="GraphQL" /><br>GraphQL | <img src="https://www.vectorlogo.zone/logos/jestjs/jestjs-icon.svg" width="48" height="48" alt="Jest" /><br>Jest | <img src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" width="48" height="48" alt="JUnit" /><br>JUnit |
 
+---
+---
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 ---
 
 ## 📊 GitHub Stats
