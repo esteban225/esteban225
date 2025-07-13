@@ -1,33 +1,36 @@
-# **Esteban David Ricardo Fuentes** 🚀
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+# **Esteban David Ricardo Fuentes** 🚀  
 ### Desarrollador Full Stack | Creador de Soluciones Innovadoras
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-ricardo-2411b8303/) &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/esteban225) &nbsp;
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-ten-omega-86.vercel.app/) &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esteban.ricardo.dev@gmail.com)
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/esteban-ricardo-2411b8303/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:esteban.ricardo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/esteban225"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://my-portfolio-ten-omega-86.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-green?logo=vercel&style=for-the-badge&logoColor=white" /></a>
+</p>
 
 ## 👨‍💻 Sobre Mí
 
-Soy **Tecnólogo en Análisis y Desarrollo de Software** 💻, originario de Boyacá, Colombia, con una fuerte pasión por construir soluciones **robustas, funcionales y escalables**. Mi enfoque principal es el **desarrollo Full Stack**, donde domino tanto el **frontend** como el **backend**, y me siento cómodo navegando por todo el ciclo de vida del desarrollo de software.
+```ts
+class WhoAmI {
+  user: string = 'Esteban David Ricardo Fuentes';
+  current_country: string = 'Colombia 🇨🇴';
+  current_role: string = 'Full Stack Developer';
+  currently_learning: string[] = ['Clean Architecture'];
+  hobbies: string[] = ['Viajar ✈️', 'Codear por diversión y aprendizaje 💻', 'Películas Sci-Fi 🎬'];
 
-Actualmente, estoy inmerso en el desarrollo de **AutoManage Pro** 🚗, una plataforma web integral para la gestión de talleres automotrices, construida con **React**, **Spring Boot** y **MySQL**. Siempre estoy en la búsqueda de expandir mis conocimientos y explorar nuevas herramientas y metodologías, como:
+  getCity(): string {
+    return 'Boyacá';
+  }
 
--   **Autenticación y Seguridad:** OAuth2, JWT
--   **Contenerización y Orquestación:** Docker, Kubernetes
--   **Integraciones API:** Stripe API, APIs RESTful
--   **Frameworks Backend:** Laravel (PHP), Node.js (Express.js)
--   **Frameworks Frontend Avanzados:** Next.js (SSR/SSG), Angular
--   **Desarrollo Móvil Multiplataforma:** React Native, Expo
--   **Herramientas de Despliegue (CI/CD):** Vercel, Railway, Netlify, Jenkins
--   **Bases de Datos NoSQL:** MongoDB
--   **Pruebas:** Jest, JUnit
--   **Control de Versiones:** Git, GitHub Actions
-
+  ambitions(): string[] {
+    return ['Ser Arquitecto de Software', 'Contribuir a proyectos de impacto global'];
+  }
+}
+```
 > 🤝 **Colaboración:** En este viaje no estoy solo, siempre dispuesto a colaborar y aprender en equipo. Actualmente, trabajo de cerca con mi talentosa compañera [@dmeloH](https://github.com/dmeloH).
-
 ---
+
 
 ## 🛠️ Stack Tecnológico
 
@@ -54,15 +57,12 @@ Aquí tienes un vistazo más detallado de las tecnologías con las que trabajo r
 
 ## 📊 GitHub Stats
 
-¡Echa un vistazo a mi actividad en GitHub! Siempre estoy comprometido con proyectos y el aprendizaje continuo.
-
 <div align="center">
-    
+
 | ![Esteban's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esteban225&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true) |
 |:--:|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esteban225&theme=tokyonight&hide_border=true) |
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban225&theme=tokyonight) |
-
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
@@ -72,20 +72,17 @@ Aquí tienes un vistazo más detallado de las tecnologías con las que trabajo r
 
 ## 🚀 Proyectos Destacados
 
-Aquí te presento algunos de mis proyectos más relevantes que reflejan mis habilidades y experiencia:
-
 ### 🔧 AutoManage Pro 🚗
-**Plataforma web para la gestión de talleres automotrices**
-Este es un sistema integral diseñado para optimizar la administración de talleres automotrices, facilitando la gestión de citas, nómina, pagos y notificaciones.
--   **Tecnologías:** **React** (Frontend interactivo), **Spring Boot** (Backend robusto), **MySQL** (Base de datos relacional), **Docker** (Contenerización para despliegue consistente).
--   **Funcionalidades clave:** Gestión de citas automatizada, administración de nómina, sistema de notificaciones en tiempo real, e integración con **Stripe API** para procesamiento de pagos.
--   **Estado:** En desarrollo activo.
+Plataforma web para la gestión de talleres automotrices, con funcionalidades clave como gestión de citas, nómina, pagos y notificaciones en tiempo real.
 
-### 📱 Aplicación Móvil de Gestión 🎯
-**App en desarrollo para administración de tareas y recursos**
-Una aplicación móvil pensada para ofrecer una experiencia intuitiva y eficiente, permitiendo la optimización de procesos y la gestión de recursos desde cualquier dispositivo.
--   **Tecnologías:** **React Native** (Desarrollo multiplataforma), **Expo** (Herramientas para desarrollo rápido), **Node.js** (Backend escalable).
--   **Estado:** En desarrollo.
+**Stack:** React · Spring Boot · MySQL · Stripe API · Docker
+
+---
+
+### 📱 App de Gestión de Tareas
+Aplicación móvil con React Native para organización de recursos y tareas. Multiplataforma y enfocada en productividad diaria.
+
+**Stack:** React Native · Expo · Node.js
 
 ---
 
@@ -95,8 +92,12 @@ Una aplicación móvil pensada para ofrecer una experiencia intuitiva y eficient
 
 ---
 
-## 📫 ¡Conéctate conmigo!
+## 🌐 Conéctate conmigo
 
 ¡Siempre estoy abierto a nuevas oportunidades de colaboración, proyectos emocionantes o simplemente para intercambiar ideas! No dudes en contactarme.
 
 **✉️ Correo Electrónico:** [esteban.ricardo.dev@gmail.com](mailto:esteban.ricardo.dev@gmail.com)
+
+---
+
+🛠️ *Última actualización:* **Julio 2025**
