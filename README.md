@@ -2,7 +2,7 @@
 
 # **Esteban David Ricardo Fuentes** 🚀  
 ### Desarrollador Full Stack | Creador de Soluciones Innovadoras
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/esteban-ricardo-2411b8303/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" /></a>
   <a href="mailto:esteban.ricardo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" /></a>
   <a href="https://github.com/esteban225"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 ## 👨‍💻 Sobre Mí
 
 ```ts
-class WhoAmI {
+class Esteban {
   user: string = 'Esteban David Ricardo Fuentes';
   current_country: string = 'Colombia 🇨🇴';
   current_role: string = 'Full Stack Developer';
@@ -63,8 +63,9 @@ Aquí tienes un vistazo más detallado de las tecnologías con las que trabajo r
 |:--:|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esteban225&theme=tokyonight&hide_border=true) |
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esteban225&theme=tokyonight) |
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+![Esteban's Graph](https://github-readme-activity-graph.vercel.app/graph?username=esteban225&custom_title=Esteban's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 </div>
 
