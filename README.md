@@ -52,7 +52,6 @@ Aquí tienes un vistazo más detallado de las tecnologías con las que trabajo r
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" alt="Jenkins" /><br>Jenkins | <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="GraphQL" /><br>GraphQL | <img src="https://www.vectorlogo.zone/logos/jestjs/jestjs-icon.svg" width="48" height="48" alt="Jest" /><br>Jest | <img src="https://www.vectorlogo.zone/logos/junit/junit-icon.svg" width="48" height="48" alt="JUnit" /><br>JUnit |
 
 ---
----
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 ---
 
